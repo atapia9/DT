@@ -1,5 +1,7 @@
 # Telecom X Parte 2: Predicción de Cancelación de Clientes
 
+https://colab.research.google.com/drive/1-hg88slPvfrJr0UtNdhRkwyvSX0uYDJ-?usp=sharing
+
 ## Descripción del Proyecto
 
 Este proyecto corresponde a la segunda parte del Challenge Telecom X, desarrollado por Jesus Armando Tapia Gallegos. Se enfoca en la construcción de modelos predictivos para anticipar la cancelación de clientes (churn) en Telecom X, utilizando datos previamente tratados en la Parte 1 del proyecto.
