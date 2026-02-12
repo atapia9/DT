@@ -9,7 +9,7 @@ Este proyecto corresponde a la segunda parte del Challenge Telecom X, desarrolla
 El objetivo principal es desarrollar y evaluar modelos de clasificación que permitan identificar clientes con alto riesgo de cancelación, apoyando decisiones estratégicas de retención. El análisis se basa en el conjunto de datos tratado, garantizando consistencia y trazabilidad a lo largo del proyecto.
 
 **Autor:** Jesus Armando Tapia Gallegos  
-**Fecha:** 6 de febrero, 2026  
+**Fecha:** 11 de febrero, 2026  
 **Enfoque:** Predicción de churn utilizando machine learning supervisado.
 
 ## Características
